@@ -11,9 +11,7 @@
 ```
 cd <project_name>
 npm init
-```
-
 node index.js
-```
-  Navigate to `http://localhost:8001`
+
+  Navigate to `http://localhost:3000/quote`
 
